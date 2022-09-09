@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class LargestNum {
+public class TwoThere1 {
 	public static void main(String args[]) {
 		Scanner in = new Scanner(System.in);
 		

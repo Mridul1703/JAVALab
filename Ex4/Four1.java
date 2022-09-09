@@ -1,8 +1,8 @@
-public class AccessPvt
+public class Four1
 {
 	public static void main(String[] args) {
 		  Two o = new Two();
-		  System.out.println(o.n);
+		//   System.out.println(o.n); //Can't access variable n here
 	}
 }
 

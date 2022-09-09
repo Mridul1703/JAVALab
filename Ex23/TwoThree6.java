@@ -1,5 +1,5 @@
 import java.util.*;
-public class Report {
+public class TwoThree6 {
 	public static void main(String args[])
 	{
 		int num=10;

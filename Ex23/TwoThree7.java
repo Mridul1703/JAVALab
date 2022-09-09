@@ -1,5 +1,5 @@
 import java.util.*;
-public class Digit 
+public class TwoThree7 
 {
 	public static void main(String[] args) 
 	{

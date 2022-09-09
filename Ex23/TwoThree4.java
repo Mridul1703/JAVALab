@@ -1,4 +1,4 @@
-public class CmdCalc {
+public class TwoThree4 {
 	public static void main(String args[]) {
 //		System.out.println("\t**MENU**\n\t 1. Add\n\t 2. Sub\n\t3. Multiply\n\t 4. Divide");
 		int ch = Integer.parseInt(args[0]);

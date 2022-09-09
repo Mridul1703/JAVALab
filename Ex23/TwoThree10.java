@@ -1,4 +1,4 @@
-public class DivByFive
+public class TwoThree10
 {
 	public static void main(String[] args) {
 		int sum = 0;
